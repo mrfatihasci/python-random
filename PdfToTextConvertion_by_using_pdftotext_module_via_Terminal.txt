@@ -1,0 +1,5 @@
+# NOT A PYTHON CODE - RUN IT THROUGH TERMINAL TO CONVERT FROM PDF TO TEXT
+
+
+
+pdftotext -layout name.pdf name2.txt  
