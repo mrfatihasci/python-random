@@ -1,7 +1,7 @@
 
 
 
-				TITLE:
+				Title:
 Python code to study english vocabulary using a bunch of libraries 
 
 				Description:
@@ -12,6 +12,6 @@ When the answer is correct, it is marked as true (sets value as 1 to next column
 When the answer is wrong, it is marked as wrong (sets value as 0 to next column) and keeps asking it each time the python code is run. It includes PYTTSS3 library to aid the english listening skill of user.
 
 				Note:
-This code was written during time of my english language study as a hobby, so the code can be shortened and improved but i stopped working on it when it was working just fine :)
+This code was written during time of my english language study as a hobby, so the code can be shortened and improved but i stopped working on it when it was working just fine.
  
 
