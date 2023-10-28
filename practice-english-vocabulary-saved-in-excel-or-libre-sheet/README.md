@@ -2,7 +2,7 @@
 
 
 				TITLE:
-Python code that to study english vocabulary using a bunch of libraries 
+Python code to study english vocabulary using a bunch of libraries 
 
 				Description:
 
